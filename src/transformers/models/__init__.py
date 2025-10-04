@@ -52,6 +52,7 @@ if TYPE_CHECKING:
     from .bridgetower import *
     from .bros import *
     from .byt5 import *
+    from .boom import *
     from .camembert import *
     from .canine import *
     from .chameleon import *
